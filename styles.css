@@ -1,0 +1,30 @@
+h1 {
+    font-size: .75em;
+}
+
+.mainSection {
+    background-color: rgb(233, 233, 233);
+    width: 50%;
+    margin: 5% auto;
+    padding: 0;
+}
+
+img {
+    width: 100%;
+    object-fit: cover;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.buttons {
+    margin-top: 10px;
+
+}
+
+.winner {
+    color: lightgreen;
+}
+
+.loser {
+    color: lightcoral;
+}
